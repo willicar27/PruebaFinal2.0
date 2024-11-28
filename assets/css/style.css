@@ -1,0 +1,26 @@
+.containerFotoPerfil {
+    display: flex;
+    justify-content: center;
+    margin-top: 3%;
+  }
+  
+  h2 {
+    margin-left: 5%;
+  }
+  
+  p {
+    margin-left: 3%;
+  }
+  
+  li {
+    margin-left: 2%;
+  }
+  .row {
+    text-align: center; /* Centra el texto dentro del div */
+  }
+  
+  header img {
+    max-width: 250px;
+    max-height: 200px;
+    border-radius: 50%; /* Ajusta el radio de curvatura de la imagen */
+  }
