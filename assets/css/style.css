@@ -25,3 +25,11 @@ main {
   padding: 10px;
   margin: 10px;
 }
+
+footer {
+  height: 50px;
+}
+.p_footer-font {
+  text-align: center;
+  font-size: smaller;
+}
