@@ -14,7 +14,7 @@ header img {
 }
 
 header {
-  background-image: url(/assets/img/big-data-7645200_1280.jpg);
+  background-image: url(../img/big-data-7645200_1280.jpg);
 }
 
 main {
@@ -33,5 +33,5 @@ main {
 /*Footer*/
 footer {
   height: 50px;
-  background-image: url(/assets/img/big-data-7645200_1280.jpg);
+  background-image: url(../img/big-data-7645200_1280.jpg);
 }
