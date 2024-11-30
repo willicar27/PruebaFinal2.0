@@ -12,6 +12,11 @@ header img {
   margin-right: 10%;
   border-radius: 30%;
 }
+
+header {
+
+  background-image: url(/assets/img/big-data-7645200_1280.jpg);
+}
 main {
   font-family: Arial, Helvetica, sans-serif;
   font-weight:normal;
