@@ -1,7 +1,13 @@
 .card-size {
-    width: 100%;
-    height: 70px;
-    margin-bottom:3%;
-  }
+  width: 100%;
+  height: 70px;
+  margin-bottom: 3%;
+}
 
-  
+header {
+  background-image: url(/assets/img/big-data-7645200_1280.jpg);
+}
+
+body {
+  background-image: url(/assets/img/big-data-7645200_1280.jpg);
+}
